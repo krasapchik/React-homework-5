@@ -1,0 +1,28 @@
+.App {
+  text-align: center;
+}
+
+.user{
+  width: 50%;
+  display: flex;
+  justify-content: space-between;
+  border: 1px solid teal;
+ padding: 15px ;
+ margin-top: 15px;
+ border-radius: 10px;
+
+}
+.app{
+  display: flex;
+  justify-content: center;
+}
+.child{
+
+  border: 1px solid teal;
+  width: 50%;
+  margin-left:350px;
+  border-radius: 10px;
+  background-color: goldenrod;
+  padding: 10px;
+
+}
